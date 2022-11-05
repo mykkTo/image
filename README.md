@@ -7,4 +7,5 @@
 </br>
 # 床图格式替换
 https://fastly.jsdelivr.net/gh/mykkTo/image@main
+</br>
 http://static.mykkto.cn/image
