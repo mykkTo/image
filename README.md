@@ -6,6 +6,7 @@
 更新nginx 指向，脱离jsDelivr
 </br>
 # 床图格式替换
+</br>
 https://fastly.jsdelivr.net/gh/mykkTo/image@main
 </br>
 http://static.mykkto.cn/image
